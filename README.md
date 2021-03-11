@@ -1,12 +1,12 @@
-# Flat long shadow
-This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/flat-long-shadow/)
+# Flat Long Shadow
+
+## links
+[demo link](https://aldopolojr.github.io/flat-long-shadow/)
+
+[source link](https://youtu.be/xrmdn1t5moA)
+
+## Category
+tutorials
 
 ## Notes
 - contenteditable="true"
-
-## Source
-[https://youtu.be/xrmdn1t5moA](https://youtu.be/xrmdn1t5moA)
-
-
-## Tags
-#HTML #CSS #JavaScript
